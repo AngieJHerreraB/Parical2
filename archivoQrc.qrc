@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="fondo">
+    <file>imgs/buscar.png</file>
+    <file>imgs/fondo.jpg</file>
+    <file>imgs/fondo.jpg</file>
+  </qresource>
+</RCC>
